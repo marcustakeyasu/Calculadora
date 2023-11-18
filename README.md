@@ -18,6 +18,14 @@ git clone https://github.com/seu-usuario/calculadora-java.git
 
 4. Analise o código-fonte para entender a implementação e faça as modificações necessárias conforme necessário.
 
+## Testes JUnit
+Os testes JUnit são realizados na classe "CalculadoraJunitTest". Certifique-se de ter uma biblioteca JUnit configurada no seu ambiente de desenvolvimento.
+
+Para executar os testes:
+
+1. Abra a classe CalculadoraJunitTest em sua IDE.
+2. Execute os testes JUnit.
+
 ## Onde os usuários podem obter ajuda com seu projeto
 Se os usuários precisarem de ajuda com o projeto, podem seguir estas opções:
 
